@@ -8,7 +8,7 @@
 
 </p>
 
-#### After Selecting the folder the list of files avaliable is displayed:
+#### After selecting the folder the list of files avaliable is displayed:
 
 <p align="center">
 
